@@ -1,3 +1,10 @@
+<!-- brand:header:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-82f8f0ad-dark.svg">
+  <img alt="research-pump-cavitation: Diagnostic system for hydraulic pump failures by means of electric current analysis and machine learning tools" src="assets/brand/header-82f8f0ad-light.svg" width="100%">
+</picture>
+<!-- brand:header:end -->
+
 <!-- archive-banner:start -->
 > [!NOTE]
 > **This repository is archived.** It is read-only and no longer maintained. It is kept as a record of the work.
@@ -99,3 +106,10 @@ Project Link: [JonathanTSilva/SI-Cavitation](https://github.com/JonathanTSilva/S
 [linkedin-url]: https://www.linkedin.com/in/JonathanTSilva/
 -->
 <!-- [product-screenshot]: -->
+
+<!-- brand:footer:start -->
+<p align="right"><a href="https://www.jontobias.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanTSilva/.github/main/assets/brand/jontobias-dark.svg">
+  <img alt="jontobias.com" src="https://raw.githubusercontent.com/JonathanTSilva/.github/main/assets/brand/jontobias-light.svg" width="200">
+</picture></a></p>
+<!-- brand:footer:end -->
