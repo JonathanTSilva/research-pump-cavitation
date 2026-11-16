@@ -32,7 +32,7 @@
   <a href="https://github.com/JonathanTSilva/research-pump-cavitation/issues">
     <img src="https://img.shields.io/github/issues/JonathanTSilva/SI-Cavitation.svg?style=for-the-badge" alt="Issues">
   </a>
-  <a href="https://github.com/JonathanTSilva/research-pump-cavitation/blob/master/LICENSE">
+  <a href="https://github.com/JonathanTSilva/research-pump-cavitation/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/JonathanTSilva/SI-Cavitation.svg?style=for-the-badge" alt="License">
   </a>
 </p>
@@ -59,11 +59,11 @@ The condition monitoring of equipment is essential in industries, in order to pr
 ## Contributing
 
 <!-- MIT License -->
-<a href="https://github.com/JonathanTSilva/research-pump-cavitation/blob/master/LICENSE"><img alt="MIT License" width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
+<a href="https://github.com/JonathanTSilva/research-pump-cavitation/blob/main/LICENSE"><img alt="MIT License" width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/JonathanTSilva/research-pump-cavitation/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/JonathanTSilva/research-pump-cavitation/blob/main/LICENSE) for more information.
 
 ## Contact
 
@@ -92,7 +92,7 @@ Project Link: [JonathanTSilva/SI-Cavitation](https://github.com/JonathanTSilva/r
 [issues-shield]: https://img.shields.io/github/issues/JonathanTSilva/SI-Cavitation.svg?style=for-the-badge
 [issues-url]: https://github.com/JonathanTSilva/research-pump-cavitation/issues
 [license-shield]: https://img.shields.io/github/license/JonathanTSilva/SI-Cavitation.svg?style=for-the-badge
-[license-url]: https://github.com/JonathanTSilva/research-pump-cavitation/blob/master/LICENSE
+[license-url]: https://github.com/JonathanTSilva/research-pump-cavitation/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/JonathanTSilva/
 -->
