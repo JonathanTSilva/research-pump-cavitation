@@ -6,6 +6,7 @@
 <!-- brand:header:end -->
 
 <!-- PROJECT LOGO -->
+<!-- 
 <h1 align="center">
   <br>
   <a href="https://github.com/JonathanTSilva/research-pump-cavitation"><img src="./Images/logo-cavitation.png" alt="Logo" width="200"></a>
@@ -17,6 +18,7 @@
 <h4 align="center">
   🔬 Diagnostic system for hydraulic pump failures by means of electric current analysis and machine learning tools.
 </h4>
+-->
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
